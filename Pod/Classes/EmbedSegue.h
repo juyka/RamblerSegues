@@ -9,7 +9,7 @@
 #ifndef EmbedSegue_h
 #define EmbedSegue_h
 
-#import "EmbedSegue/RamblerEmbedSegueViewContainer.h"
-#import "EmbedSegue/RamblerEmbedSegue.h"
+#import "RamblerEmbedSegueViewContainer.h"
+#import "RamblerEmbedSegue.h"
 
 #endif /* EmbedSegue_h */
